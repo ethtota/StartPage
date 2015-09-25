@@ -31,28 +31,28 @@
 */
 
 body {
-	background: #151515;										/* Page background */
-	color: #999;														/* Font color */
-	padding: 150px;													/* Padding between link blocks and edge */
+	background: #444444;										/* Page background */
+	color: #bfbfbf;														/* Font color */
+	padding: 80px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
-	text-shadow: rgba(0,0,0,0.6) 1px 1px 0; /* Text Shadow */
+	text-shadow: rgba(0,0,0,0.6) 2px 2px 0; /* Text Shadow */
 }
 
 a {
-	color: #999;														/* Link Color */
-	font-size: 11px;												/* Link Size */
+	color: #7BA5E8;														/* Link Color */
+	font-size: 15px;												/* Link Size */
 	text-decoration: none;									/* Remove underlines */
 }
 
 a:hover {
-	color: #ddd;														/* Link hover color */
+	color: #1FF087;														/* Link hover color */
 }
 
 .block {
-	border-left: 1px solid #999;						/* Left border of link block */
+	border-left: 1px solid #856EF5;						/* Left border of link block */
 	float: left;
 	padding: 1em;														/* Padding around link block */
-	width: 140px;														/* Link block width */
+	width: 150px;														/* Link block width */
 }
 
 h1 {
@@ -77,9 +77,9 @@ ul li {
 
 #clock {
 	position: absolute;
-	bottom: 10px;
-	right: 10px;
-	font-size: 2em;
+	bottom: 20px;
+	right: 30px;
+	font-size: 3em;
 }
 
 form {
